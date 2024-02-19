@@ -25,7 +25,7 @@ To get started with the Baby Gears Rental App:
   2. Ensure you have Flutter SDK installed. If not, follow the official installation guide.
   3. Open the project in your preferred IDE.
   4. Run flutter pub get to install dependencies.
-  5. Connect a device or start an emulator.
+  5. Connect a device or start an emulator **(For better experience, use iPhone 12 Pro)**.
   6. Run flutter run to launch the application.
 
 A few resources to get you started if this is your first Flutter project:
