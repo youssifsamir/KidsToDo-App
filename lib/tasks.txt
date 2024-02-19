@@ -1,0 +1,27 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ NON-FUNCTIONAL ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- SIGNUP SCREENS:
+        + Long texts disappering glitch
+        + Whitespace validation
+
+ - LOGIN SCREEN:
+        + Many invalid password entry (counter for forget password reccomendation)
+
+- OTHER:
+        + Drawer long name displayment width flexbility
+
++ QR CODE:
+        - Design
+        - Duplicate QRs
+        
+
++ Task Number Finished (1/5)
++ Forgot Password
++ Friends Rankings (Avater + Name + Points + Center Bottombar Button)
++ Sorting Achievements (Recent, Daily, Monthly)
++ Notification in-system (DropDownMen + Badge + Milestones)
++ Keyboard screen pushup
++ Claim reward functionality
+
+!!! MEDIA QUEREY !!!
