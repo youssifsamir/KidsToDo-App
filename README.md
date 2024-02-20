@@ -3,7 +3,7 @@
 Welcome to Kids To-Do Applicaiton, a mobile application designed to simplify managing tasks, activities, and rewards for kids. Built with Flutter and Dart, Kids To-Do app provides a seamless user experience with its clean UI/UX design. Whether you're a parent or caregiver, this app aims in organizing and tracking your kids' tasks and activities.
 
 
-## Quick Preview
+## 🔥 Quick Preview
 
 [![Watch the video](https://github.com/youssifsamir/KidsToDo-App/assets/113045942/90441fdd-48ac-4565-b8eb-f3b6aa25bee8)](https://streamable.com/k7ivyh)
 
