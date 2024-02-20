@@ -12,9 +12,13 @@ Welcome to Kids To-Do Applicaiton, a mobile application designed to simplify man
 ## Features
 
 - **Clean UI/UX:** Enjoy a visually appealing kids interface designed for easly navigation and intuitive use.
+  
 - **Smooth Usability:** Experience seamless interactions and fluid transitions throughout the app.
+  
 - **User Authentication:** Ensure secure access to the app with user authentication functionality.
+  
 - **Rewarding Points System:** Motivate your kids by rewarding points for completed tasks and achievements, fostering positive behavior.
+  
 - **QR Code Scanning:** Quickly add tasks or activities by scanning QR codes, streamlining the input process.
 
 
