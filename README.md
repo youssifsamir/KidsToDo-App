@@ -5,7 +5,7 @@ Welcome to Kids To-Do Applicaiton, a mobile application designed to simplify man
 
 ## 🔥 Quick Preview
 
-[![Watch the video](https://github.com/youssifsamir/KidsToDo-App/assets/113045942/90441fdd-48ac-4565-b8eb-f3b6aa25bee8)](https://streamable.com/k7ivyh)
+[![Watch the video](https://github.com/youssifsamir/KidsToDo-App/assets/113045942/90441fdd-48ac-4565-b8eb-f3b6aa25bee8)](https://vimeo.com/915057669?share=copy)
 
 
 
